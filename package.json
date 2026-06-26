@@ -1,0 +1,77 @@
+{
+  "name": "fastener",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "<div align=\"center\"> <img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6\" /> </div>",
+  "main": "Route.js",
+  "homepage": "https://vsakariya24-netizen.github.io/fastener/",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsakariya24-netizen/fastener.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vsakariya24-netizen/fastener/issues"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node fetch-products.js",
+    "prerender": "node prerender.js",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "generate": "node scripts/generateData.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@hello-pangea/dnd": "^18.0.1",
+    "@motionone/utils": "^10.18.0",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.4.2",
+    "@supabase/supabase-js": "^2.107.0",
+    "@vercel/analytics": "^1.6.1",
+    "axios": "^1.17.0",
+    "clsx": "^2.1.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "embla-carousel-autoplay": "^8.6.0",
+    "embla-carousel-react": "^8.6.0",
+    "esbuild": "^0.28.0",
+    "express": "^5.2.1",
+    "firebase": "^12.6.0",
+    "framer-motion": "^12.26.2",
+    "lucide-react": "^0.554.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^25.1.0",
+    "qrcode.react": "^4.2.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-helmet": "^6.1.0",
+    "react-helmet-async": "^2.0.5",
+    "react-markdown": "^10.1.0",
+    "tailwind-merge": "^3.4.0",
+    "three": "^0.182.0",
+    "vite-plugin-ssr": "^0.4.142"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/node": "^22.19.17",
+    "@types/qrcode.react": "^1.0.5",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.0.0",
+    "baseline-browser-mapping": "^2.10.12",
+    "gh-pages": "^6.3.0",
+    "react-router-dom": "^7.13.1",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0",
+    "wrangler": "^4.69.0"
+  },
+  "keywords": []
+}
