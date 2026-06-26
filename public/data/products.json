@@ -1,0 +1,2803 @@
+[
+  {
+    "id": "6f69cf2d-ef3b-4238-a4f1-7cc154ea3f9e",
+    "created_at": "2026-01-26T04:43:30.714833+00:00",
+    "name": "DOOR SLIENCER",
+    "slug": "door-sliencer",
+    "category": "FITTINGS",
+    "short_description": "Door silencer designed to reduce impact noise and protect doors by ensuring smooth, quiet, and cushioned closing.",
+    "material": "PVC (Polyvinyl chloride) | PP virgin (polypropylene)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769402648701-WhatsApp-Image-2026-01-23-at-4.24.40-PM.jpeg"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Standard Packing",
+        "value": "CLASSONE/PCS"
+      }
+    ],
+    "sub_category": "33ebec6a-a0b6-4b7e-99c8-ecd26f49cae1",
+    "finish_images": {},
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Furniture Multipurpose",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770040150786-WhatsApp-Image-2026-01-28-at-6.12.14-PM.jpeg"
+      },
+      {
+        "name": "Door Fitting",
+        "image": ""
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [
+      {
+        "name": "",
+        "image": "",
+        "labels": "1"
+      },
+      {
+        "name": "",
+        "image": "",
+        "labels": "1.5"
+      },
+      {
+        "name": "",
+        "image": "",
+        "labels": "2"
+      },
+      {
+        "name": "",
+        "image": "",
+        "labels": "2.5"
+      },
+      {
+        "name": "",
+        "image": "",
+        "labels": "3"
+      },
+      {
+        "name": "",
+        "image": "",
+        "labels": "4"
+      }
+    ],
+    "type_images": {},
+    "position": 15,
+    "faqs": []
+  },
+  {
+    "id": "9be28694-a05f-47c1-bac4-514c19f3debe",
+    "created_at": "2025-12-27T09:11:20.715889+00:00",
+    "name": "MS-Self Tapping Screw",
+    "slug": "ms-self-tapping-screw",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Mild steel self tapping screw engineered for strong thread formation and reliable fastening in metal and sheet applications.",
+    "material": "Mild Steel (Grade C1008 | C1010)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769149365503-Gemini_Generated_Image_dcq1fkdcq1fkdcq1-Photoroom-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "CSK Head /PAN Head"
+      },
+      {
+        "key": "Drive Type",
+        "value": "Phillips "
+      },
+      {
+        "key": "Thread Type",
+        "value": "Fine Thread"
+      }
+    ],
+    "sub_category": "90669ded-b973-4c90-bf21-c9863576901b",
+    "finish_images": {},
+    "head_type": "CSK Head /PAN Head",
+    "thread_type": "Fine Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Furniture Hardware",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769143582447-furniture.PNG"
+      },
+      {
+        "name": "Fitting acceseries",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769143591427-ss.PNG"
+      },
+      {
+        "name": "Aluminium Sector",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769593871464-WhatsApp-Image-2026-01-27-at-2.53.29-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/tech/1767004862117-Untitled-Project-(41).jpg",
+    "dimensional_specifications": [
+      {
+        "label": "Outer Diameter",
+        "symbol": "D",
+        "values": {
+          "2.8": "2.76-2.9",
+          "3.2": "3.12-3.30",
+          "3.5": "3.35-3.53",
+          "4.2": "4.04-4.22",
+          "4.8": "4.62-4.8"
+        }
+      },
+      {
+        "label": "Inner Diameter",
+        "symbol": "d₁",
+        "values": {
+          "2.8": "2.18-2.08",
+          "3.2": "2.29-2.39",
+          "3.5": "2.51-2.64",
+          "4.2": "2.95-3.1",
+          "4.8": "3.43-3.58"
+        }
+      },
+      {
+        "label": "Head Diameter(CSK)",
+        "symbol": "A",
+        "values": {
+          "2.8": "5.2-5.5",
+          "3.2": "5.46-6.02",
+          "3.5": "6.9-7.3",
+          "4.2": "8-8.4",
+          "4.8": "8.9-9.3"
+        }
+      },
+      {
+        "label": "Head Diameter(PAN)",
+        "symbol": "A",
+        "values": {
+          "2.8": "5.3-5.6",
+          "3.2": "6.22-5.87",
+          "3.5": "6.64-7",
+          "4.2": "7.64-8",
+          "4.8": "9.14-9.5"
+        }
+      },
+      {
+        "label": "Head Height(CSK)",
+        "symbol": "H",
+        "values": {
+          "2.8": "1.7(max)",
+          "3.2": "1.57-1.91",
+          "3.5": "2.35(max)",
+          "4.2": "2.6(max)",
+          "4.8": "2.8(max)"
+        }
+      },
+      {
+        "label": "Head Height(PAN)",
+        "symbol": "H",
+        "values": {
+          "2.8": "2.15-2.4",
+          "3.2": "2.01-2.26",
+          "3.5": "2.35-2.6",
+          "4.2": "2.8-3.1",
+          "4.8": "3.4-3.7"
+        }
+      },
+      {
+        "label": "Thread Pitch",
+        "symbol": "P",
+        "values": {
+          "2.8": "1.1",
+          "3.5": "1.3",
+          "4.2": "1.4",
+          "4.8": "1.6"
+        }
+      }
+    ],
+    "material_grade": "",
+    "drive_type": "Phillips ",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [
+      {
+        "title": "DIN 7982/7981",
+        "subtitle": "Certified Facility"
+      }
+    ],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 6,
+    "faqs": [
+      {
+        "answer": "An MS self-tapping screw is a mild steel fastener that forms its own mating threads as it is driven into a pre-drilled hole. It eliminates the need for separate tapping operations in metal, plastic, or wood.\n\nThese screws are widely used for fast, reliable assembly in fabrication and manufacturing.",
+        "question": "What is an MS self-tapping screw?"
+      },
+      {
+        "answer": "MS stands for Mild Steel, a low-carbon steel known for:\n\n➤Good strength\n➤High ductility\n➤Easy machining and forming\n➤Cost-effectiveness\n➤Wide industrial availability",
+        "question": "What does MS mean in MS screws?"
+      },
+      {
+        "answer": "They are commonly used across light-to-medium duty applications:\n\n➤Sheet metal fastening\n➤Electrical panels and enclosures\n➤Furniture hardware\n➤Automotive components\n➤Household appliances\n➤Plastic parts assembly\n➤General fabrication work",
+        "question": "What are MS self-tapping screws used for?"
+      },
+      {
+        "answer": "Yes. They are ideal for thin metal sheets and mild steel components when an appropriate pilot hole is drilled beforehand.",
+        "question": "Can MS self-tapping screws be used in metal?"
+      },
+      {
+        "answer": "They are suitable for a wide range of materials:\n\n➤Mild steel sheets\n➤Aluminum\n➤Plastics\n➤Wood\n➤Fiber boards\n➤Thin metal sections\n➤Composite materials",
+        "question": "What materials can MS self-tapping screws fasten?"
+      },
+      {
+        "answer": "They are manufactured in a wide range of diameters and lengths to suit different materials and thicknesses.\n\nSelection depends on required holding strength and penetration depth.",
+        "question": "What sizes are available for MS self-tapping screws?"
+      },
+      {
+        "answer": "➤Self-tapping screws: Require a pilot hole and then cut threads\n➤Self-drilling screws: Feature a drill-point tip that drills and taps in one step\n\nSelf-drilling screws are often called SDS or TEK screws.",
+        "question": "What is the difference between self-tapping and self-drilling screws?"
+      },
+      {
+        "answer": "They are widely used across multiple sectors:\n\n➤Construction\n➤Electrical manufacturing\n➤Automotive industry\n➤Furniture production\n➤HVAC systems\n➤Machinery assembly\n➤Appliance manufacturing",
+        "question": "Which industries use MS self-tapping screws?"
+      },
+      {
+        "answer": "Yes. Large orders can be customized with:\n\n➤Special sizes and lengths\n➤Coatings and finishes\n➤Head styles\n➤Drive types\n➤Branding or head markings\n➤Packaging formats",
+        "question": "Can MS self-tapping screws be customized?"
+      }
+    ]
+  },
+  {
+    "id": "f1d6452c-d332-404b-814a-5c266b8e04c6",
+    "created_at": "2026-01-26T05:27:02.325121+00:00",
+    "name": "AUTO HINGS",
+    "slug": "auto-hings",
+    "category": "FITTINGS",
+    "short_description": "Self-closing auto hinges designed for smooth, controlled door movement and long-lasting performance in residential and commercial applications.",
+    "material": "Mild Steel",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769498966866-Gemini_Generated_Image_71w6kv71w6kv71w6-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [],
+    "sub_category": "ed195c13-6b9a-4451-b031-5ae701d45051",
+    "finish_images": {
+      "NICKEL": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1769499246338-WhatsApp_Image_2026-01-26_at_2.40.09_PM-removebg-preview.png"
+    },
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Hardware Funiture",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770040200934-WhatsApp-Image-2026-01-28-at-6.12.35-PM.jpeg"
+      },
+      {
+        "name": "Manufutures",
+        "image": ""
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [],
+    "type_images": {},
+    "position": 20,
+    "faqs": []
+  },
+  {
+    "id": "1a1047d0-18a2-4744-9f0f-7ec536b0752e",
+    "created_at": "2026-01-27T10:24:06.497146+00:00",
+    "name": "Nylon Frame Fixing Screw",
+    "slug": "nylon-frame-fixing-screw",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Nylon frame fixing screw engineered for strong, vibration-resistant anchoring of window, door, and structural frames in concrete, brick, and masonry.",
+    "material": "Mild Steel (Grade C1008 | C1010)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1771673143101-WhatsApp_Image_2026-01-15_at_2.30.04_PM-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      }
+    ],
+    "sub_category": "794bca93-6366-4b6a-a01b-60f610ed22d3",
+    "finish_images": {},
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Door Frame",
+        "image": ""
+      },
+      {
+        "name": "Window Fixing Frame",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770040074157-WhatsApp-Image-2026-01-28-at-6.11.10-PM.jpeg"
+      },
+      {
+        "name": "UPVC.CPVC",
+        "image": ""
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 11,
+    "faqs": []
+  },
+  {
+    "id": "5db92604-f443-4a57-8614-e030fa5df29d",
+    "created_at": "2025-12-13T06:48:44.463992+00:00",
+    "name": "Drywall Screw (Gypsum Screw)",
+    "slug": "premium-black-phosphate-drywall-screw-gypsum-screw-",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Precision Engineered C1022 Steel | Anti-Corrosion Finish | High-Speed Penetration",
+    "material": "Mild Steel (Grade C1022) | Stainless Steel (Grade 204CU,SS304,SS316,)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769148901524-WhatsApp_Image_2026-01-15_at_3.57.20_PM-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "CSK Phillips Bugle Head "
+      },
+      {
+        "key": "Drive Type",
+        "value": "Phillips"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Fine Thread"
+      }
+    ],
+    "sub_category": "68ee0d4c-87ba-4abe-adc8-f1802e1ccced",
+    "finish_images": {
+      "Black": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1770289929263-1769148901524-WhatsApp_Image_2026-01-15_at_3.57.20_PM-removebg-preview-(1).png",
+      "Nickel": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1770289940054-Untitled_Project_-_2026-02-05T163516.009-removebg-preview.png",
+      "Antique": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1770289933387-Untitled_Project_-_2026-02-05T163627.660-removebg-preview.png"
+    },
+    "head_type": "CSK Phillips Bugle Head ",
+    "thread_type": "Fine Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Gypsum Board Installation",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1765610287878-WhatsApp-Image-2025-12-05-at-6.15.05-PM.jpeg"
+      },
+      {
+        "name": "POP Work",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1768466172861-WhatsApp-Image-2026-01-13-at-2.30.21-PM.jpeg"
+      },
+      {
+        "name": "Metal framing",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769142258976-Gemini_Generated_Image_dd1t4add1t4add1t-Photoroom.png"
+      },
+      {
+        "name": "electrical work",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1768466222956-WhatsApp-Image-2026-01-13-at-2.48.03-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/tech/1766745596385-Untitled-Project-(35).jpg",
+    "dimensional_specifications": [
+      {
+        "label": "Outer Diameter",
+        "symbol": "D",
+        "values": {
+          "3.5": "3.4-3.5",
+          "4.2": "3.9-4.2",
+          "4.8": "4.5-4.8",
+          "5.5": "fg",
+          "6.6.": "ghfg"
+        }
+      },
+      {
+        "label": "Inner Diameter",
+        "symbol": "d₁",
+        "values": {
+          "3.5": "2.25-2.45",
+          "4.2": "2.75-2.95",
+          "4.8": "3.05-3.25"
+        }
+      },
+      {
+        "label": "Head Diameter",
+        "symbol": "A",
+        "values": {
+          "3.5": "7.9-8.5",
+          "4.2": "7.9-8.5",
+          "4.8": "7.9-8.5"
+        }
+      },
+      {
+        "label": "Head Height",
+        "symbol": "H",
+        "values": {
+          "3.5": "3.5~5.0",
+          "4.2": "3.5~5.0",
+          "4.8": "3.5~5.0"
+        }
+      },
+      {
+        "label": "Thread Pitch",
+        "symbol": "P",
+        "values": {
+          "3.5": "2.8(±0.28)",
+          "4.2": "3.2(±0.32)",
+          "4.8": "3.2(±0.32)"
+        }
+      }
+    ],
+    "material_grade": "",
+    "drive_type": "Phillips",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [
+      {
+        "title": "DIN 18182",
+        "subtitle": "Certified Facility"
+      }
+    ],
+    "size_images": [],
+    "type_images": {},
+    "position": 0,
+    "faqs": [
+      {
+        "answer": "Coarse-thread drywall screws are ideal for wood studs.\n\nTheir wide, deep threads grip wood fibers strongly, providing excellent holding power and reducing the risk of pull-out.\n\nBest use cases:\n➤Wooden framing\n➤Softwood studs\n➤Plywood backing\n➤Interior drywall installations\n\n👉 Pro Tip: Coarse threads drive faster and reduce stripping in soft materials.",
+        "question": "Which drywall screw is best for wood studs?"
+      },
+      {
+        "answer": "Fine-thread drywall screws are specifically designed for metal studs.\n\nTheir closely spaced threads cut into metal surfaces securely without damaging the stud.\n\nRecommended for:\n➤Light-gauge steel studs\n➤Metal framing systems\n➤Commercial drywall installations\n\n👉 Fine threads provide better resistance against loosening in metal.",
+        "question": "Which drywall screw is best for metal studs?"
+      },
+      {
+        "answer": "For standard 12 mm (1/2-inch) drywall boards, the recommended screw length is:\n\n👉 1-1/4 inch drywall screws\n\nOther common guidelines:\n\n➤Single layer drywall → 1-1/4 in\n➤Double layer drywall → 1-5/8 in or longer\n➤Ceiling installation → Longer screws for safety",
+        "question": "What length drywall screw should I use?"
+      },
+      {
+        "answer": "Standard black phosphate drywall screws are designed for indoor dry environments only.\n\nFor humid or exterior applications, choose corrosion-resistant options:\n\n➤Zinc-plated drywall screws\n➤Galvanized drywall screws\n➤Stainless steel drywall screws\n\nThese coatings protect against moisture, rust, and long-term degradation.",
+        "question": "Are drywall screws rust-resistant?"
+      },
+      {
+        "answer": "The most commonly used size is:\n\n👉 #6 gauge drywall screws\n\nThey provide an ideal balance of strength, penetration, and ease of driving for most residential drywall installations.\n\n➤Typical diameter: ~3.5 mm",
+        "question": "What size drywall screw is most common?"
+      }
+    ]
+  },
+  {
+    "id": "1cb35c04-ea77-45d9-ad66-e8449831ced1",
+    "created_at": "2026-01-26T04:55:48.337002+00:00",
+    "name": "PVC BUFFER",
+    "slug": "pvc-buffer",
+    "category": "FITTINGS",
+    "short_description": "Durable PVC buffer designed to absorb impact, reduce noise, and protect doors, furniture, and surfaces from damage.",
+    "material": "PVC (Polyvinyl chloride) | PP virgin (Polypropylene)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769403372901-WhatsApp-Image-2026-01-23-at-4.55.24-PM-(1).jpeg"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Standard Packing",
+        "value": "CLASSONE/PCS"
+      }
+    ],
+    "sub_category": "03753f8d-788e-468f-bb71-25d9ef5cdc7c",
+    "finish_images": {},
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Furniture",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770040134145-WhatsApp-Image-2026-01-28-at-6.12.03-PM.jpeg"
+      },
+      {
+        "name": "Multipurpose",
+        "image": ""
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [],
+    "type_images": {},
+    "position": 16,
+    "faqs": []
+  },
+  {
+    "id": "78e77281-ed12-4e70-b729-7680f326ff9a",
+    "created_at": "2025-12-23T11:13:10.608351+00:00",
+    "name": "SDS-CSK-PHILLIPS",
+    "slug": "sds-csk",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Precision Engineered Steel | Drill-Point Tip | Fast Metal-to-Metal Fixing",
+    "material": "Mild Steel (Grade C1022)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769149314718-Gemini_Generated_Image_syxli9syxli9syxl-Photoroom-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "Countersunk (CSK)"
+      },
+      {
+        "key": "Drive Type",
+        "value": "Phillips"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Fine Thread"
+      }
+    ],
+    "sub_category": "cf80d77d-7a5b-453a-a9b8-6da0d7bbe767",
+    "finish_images": {},
+    "head_type": "Countersunk (CSK)",
+    "thread_type": "Fine Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Aliminium Work",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770090005959-WhatsApp-Image-2026-01-28-at-6.16.08-PM.jpeg"
+      },
+      {
+        "name": "Sheet Metal",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769142246144-Gemini_Generated_Image_4lx0um4lx0um4lx0-Photoroom.png"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/tech/1766745620521-Untitled-Project-(37).jpg",
+    "dimensional_specifications": [
+      {
+        "label": "Outer Diameter",
+        "symbol": "D",
+        "values": {
+          "3.5mm": "3.35-3.53",
+          "3.9mm": "3.71-3.89",
+          "4.2mm": "4.04-4.22",
+          "4.8mm": "4.62-4.8"
+        }
+      },
+      {
+        "label": "Inner Diameter",
+        "symbol": "d₁",
+        "values": {
+          "3.5mm": "2.51-2.64",
+          "3.9mm": "2.77-2.87",
+          "4.2mm": "2.95-3.1",
+          "4.8mm": "3.43-3.58"
+        }
+      },
+      {
+        "label": "Head Diameter",
+        "symbol": "A",
+        "values": {
+          "3.5mm": "6.9-7.3",
+          "3.9mm": "6.65-7.29",
+          "4.2mm": "8-8.4",
+          "4.8mm": "8.9-9.3"
+        }
+      },
+      {
+        "label": "Head Height",
+        "symbol": "H",
+        "values": {
+          "3.5mm": "2.35(max)",
+          "3.9mm": "1.93-2.31",
+          "4.2mm": "2.6(max)",
+          "4.8mm": "2.8(max)"
+        }
+      },
+      {
+        "label": "Thread Pitch",
+        "symbol": "P",
+        "values": {
+          "3.5mm": "1.3",
+          "3.9mm": "",
+          "4.2mm": "1.4",
+          "4.8mm": "1.6"
+        }
+      }
+    ],
+    "material_grade": "",
+    "drive_type": "Phillips",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [
+      {
+        "title": "DIN 7504-P",
+        "subtitle": "Certified Facility"
+      }
+    ],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 2,
+    "faqs": [
+      {
+        "answer": "An SDS CSK screw is a Self-Drilling Screw with a Countersunk head that drills, taps, and fastens in one step while sitting flush with the surface. It eliminates the need for pre-drilling.",
+        "question": "What is an SDS CSK screw?"
+      },
+      {
+        "answer": "SDS CSK screws are used for fastening metal to metal, metal to wood, sheet metal, furniture hardware, aluminum sections, and construction components where a flush finish is required.",
+        "question": "What are SDS CSK screws used for?"
+      },
+      {
+        "answer": "Yes. SDS CSK screws are designed to drill directly into mild steel without a pilot hole, typically up to 2–6 mm thickness depending on screw size.",
+        "question": "Can SDS CSK screws drill into steel?"
+      },
+      {
+        "answer": "No. The drill-point tip creates its own hole, saving installation time and labor.",
+        "question": "Do SDS CSK screws require a pilot hole?"
+      },
+      {
+        "answer": "CSK stands for Countersunk, meaning the screw head is cone-shaped to sit flush with the surface after installation.",
+        "question": "What does CSK mean in screws?"
+      },
+      {
+        "answer": "Self-drilling screws create their own hole, while self-tapping screws require a pre-drilled pilot hole.",
+        "question": "What is the difference between SDS and self-tapping screws?"
+      },
+      {
+        "answer": "They can be used on:\n\n➤Mild steel\n➤Sheet metal\n➤Aluminum\n➤Wood (with metal fittings)\n➤Plastic (with proper selection)",
+        "question": "What materials can SDS CSK screws be used on?"
+      },
+      {
+        "answer": "Common diameters range from 3.5 mm to 4.8 mm, with multiple lengths available depending on application requirements.",
+        "question": "What sizes are available for SDS CSK screws?"
+      },
+      {
+        "answer": "They are widely used in:\n\n➤Construction\n➤Metal fabrication\n➤HVAC systems\n➤Furniture manufacturing\n➤Electrical installations\n➤Infrastructure projects",
+        "question": "Which industries use SDS CSK screws?"
+      }
+    ]
+  },
+  {
+    "id": "5a488d1f-a08d-479f-898e-1e7105cb1b9c",
+    "created_at": "2026-02-05T08:54:16.709179+00:00",
+    "name": "Caster Wheel",
+    "slug": "caster-wheel",
+    "category": "FITTINGS",
+    "short_description": "Heavy-duty caster wheel designed for smooth mobility, high load capacity, and reliable performance in industrial, commercial, and furniture applications.",
+    "material": "Plastic",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1770281583980-WhatsApp_Image_2026-02-05_at_2.16.17_PM-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [],
+    "sub_category": "96a72a3c-e8d4-49a9-874f-6ad3228323f4",
+    "finish_images": {},
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "luggage cart",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770281819818-WhatsApp-Image-2026-02-05-at-2.01.02-PM.jpeg"
+      },
+      {
+        "name": "industrial equipment",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770281822870-WhatsApp-Image-2026-02-05-at-2.01.02-PM-(1).jpeg"
+      },
+      {
+        "name": "furniture use",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770281826937-WhatsApp-Image-2026-02-05-at-2.01.01-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [],
+    "type_images": {},
+    "position": 21,
+    "faqs": []
+  },
+  {
+    "id": "5db2d4b9-bc1d-4256-9c3f-b3f201e55869",
+    "created_at": "2026-01-26T05:01:47.831704+00:00",
+    "name": "PU BUFFER",
+    "slug": "pu-buffer",
+    "category": "FITTINGS",
+    "short_description": "High-quality PU buffer engineered for superior shock absorption, noise reduction, and long-lasting surface protection.",
+    "material": "PU (Polyurethane)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769403698424-WhatsApp-Image-2026-01-23-at-4.53.08-PM-(1).jpeg"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Standard Packing",
+        "value": "CLASSONE/PCS"
+      }
+    ],
+    "sub_category": "03753f8d-788e-468f-bb71-25d9ef5cdc7c",
+    "finish_images": {
+      "Transparent": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1769494805971-Gemini_Generated_Image_xnlh1jxnlh1jxnlh-removebg-preview.png"
+    },
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Furniture Bumper",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770090125050-WhatsApp-Image-2026-01-30-at-4.27.01-PM-(1).jpeg"
+      },
+      {
+        "name": "Door Buffer",
+        "image": ""
+      },
+      {
+        "name": "Cabinet Buffer",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770090121597-WhatsApp-Image-2026-01-30-at-4.27.01-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "3"
+      },
+      {
+        "name": "",
+        "image": "",
+        "labels": "4"
+      },
+      {
+        "name": "",
+        "image": "",
+        "labels": "5"
+      },
+      {
+        "name": "",
+        "image": "",
+        "labels": "8"
+      },
+      {
+        "name": "",
+        "image": "",
+        "labels": "10"
+      }
+    ],
+    "type_images": {},
+    "position": 17,
+    "faqs": []
+  },
+  {
+    "id": "21e21ba7-65f0-4fe1-8ea0-91a172d06f9c",
+    "created_at": "2025-12-30T09:24:38.552468+00:00",
+    "name": "SS-Self Tapping Screw",
+    "slug": "ss-self-tapping-screw",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Stainless steel self tapping screw designed for corrosion-resistant, precise, and durable fastening in metal and sheet applications.",
+    "material": "Stainless Steel (Grade 204CU | SS304 | SS316)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769149374919-Gemini_Generated_Image_cava6tcava6tcava-Photoroom-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "CSK Head/PAN Head"
+      },
+      {
+        "key": "Drive Type",
+        "value": "Phillips"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Fine Thread"
+      }
+    ],
+    "sub_category": "7c6f2fe8-84c5-49c0-b302-2281b98a981f",
+    "finish_images": {},
+    "head_type": "CSK Head/PAN Head",
+    "thread_type": "Fine Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Aluminium Section",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769593953827-WhatsApp-Image-2026-01-27-at-3.20.27-PM.jpeg"
+      },
+      {
+        "name": "Sheet Metal",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770726478457-metalappilication.PNG"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/tech/1767084281390-Untitled-Project-(41).jpg",
+    "dimensional_specifications": [
+      {
+        "label": "Outer Diameter",
+        "symbol": "D",
+        "values": {
+          "2.8": "2.76-2.9",
+          "3.2": "3.12-3.30",
+          "3.5": "3.35-3.53",
+          "4.2": "4.04-4.22",
+          "4.8": "4.62-4.8",
+          "5.5": "5.28-5.46"
+        }
+      },
+      {
+        "label": "Inner Diameter",
+        "symbol": "d₁",
+        "values": {
+          "2.8": "2.18-2.08",
+          "3.2": "2.29-2.39",
+          "3.5": "2.51-2.64",
+          "4.2": "2.95-3.1",
+          "4.8": "3.43-3.58",
+          "5.5": "3.99-4.17"
+        }
+      },
+      {
+        "label": "Head Diameter(CSK)",
+        "symbol": "A",
+        "values": {
+          "2.8": "5.2-5.5",
+          "3.2": "5.46-6.02",
+          "3.5": "6.9-7.3",
+          "4.2": "8-8.4",
+          "4.8": "8.9-9.3",
+          "5.5": "9.9-10.3"
+        }
+      },
+      {
+        "label": "Head Diameter(PAN)",
+        "symbol": "A",
+        "values": {
+          "2.8": "5.3-5.6",
+          "3.2": " 5.87 - 6.22",
+          "3.5": "6.64-7",
+          "4.2": "7.64-8",
+          "4.8": "9.14-9.5",
+          "5.5": "10.57-11"
+        }
+      },
+      {
+        "label": "Head Height(CSK)",
+        "symbol": "H",
+        "values": {
+          "2.8": "1.7(max)",
+          "3.2": "1.57-1.91",
+          "3.5": "2.35(max)",
+          "4.2": "2.6(max)",
+          "4.8": "2.8(max)",
+          "5.5": "5(max)"
+        }
+      },
+      {
+        "label": "Head Height(PAN)",
+        "symbol": "H",
+        "values": {
+          "2.8": "2.15-2.4",
+          "3.2": "2.01-2.26",
+          "3.5": "2.35-2.6",
+          "4.2": "2.8-3.1",
+          "4.8": "3.4-3.7",
+          "5.5": "3.7-4"
+        }
+      },
+      {
+        "label": "Thread Pitch",
+        "symbol": "P",
+        "values": {
+          "2.8": "1.1",
+          "3.5": "1.3",
+          "4.2": "1.4",
+          "4.8": "1.6",
+          "5.5": "1.8"
+        }
+      }
+    ],
+    "material_grade": "",
+    "drive_type": "Phillips",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [
+      {
+        "title": "DIN 7982/7981",
+        "subtitle": "Certified Facility"
+      }
+    ],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 7,
+    "faqs": [
+      {
+        "answer": "An SS self-tapping screw is a stainless steel fastener that forms or cuts its own threads in a pre-drilled hole during installation. It eliminates the need for tapping tools while providing superior corrosion resistance.\n\nThese screws are ideal for applications where durability, hygiene, and rust resistance are critical.",
+        "question": "What is an SS self-tapping screw?"
+      },
+      {
+        "answer": "SS stands for Stainless Steel, a corrosion-resistant alloy containing chromium that forms a protective oxide layer to prevent rust and oxidation.",
+        "question": "What does SS mean in screws?"
+      },
+      {
+        "answer": "They are widely used in environments exposed to moisture, chemicals, or outdoor conditions:\n\n➤Marine equipment\n➤Coastal construction\n➤Food processing machinery\n➤Outdoor installations\n➤Electrical enclosures\n➤Furniture hardware\n➤HVAC systems\n➤Solar structures",
+        "question": "What are SS self-tapping screws used for?"
+      },
+      {
+        "answer": "Yes. Most stainless steel self-tapping screws require a properly sized pilot hole before installation to ensure smooth threading and prevent material damage.",
+        "question": "Do SS self-tapping screws require a pilot hole?"
+      },
+      {
+        "answer": "Yes. They are ideal for fastening thin metal sheets, aluminum sections, and stainless components when an appropriate pilot hole is provided.",
+        "question": "Can stainless self-tapping screws be used in metal?"
+      },
+      {
+        "answer": "They are suitable for a wide range of materials:\n\n➤Stainless steel sheets\n➤Aluminum\n➤Mild steel\n➤Plastics\n➤Wood\n➤Composite materials\n➤Fiber boards",
+        "question": "What materials can SS self-tapping screws fasten?"
+      },
+      {
+        "answer": "Common grades include:\n\n➤SS-304 (A2) — General outdoor and industrial applications\n➤SS-316 (A4) — Marine, coastal, and highly corrosive environments",
+        "question": "What grades of stainless steel are used?"
+      },
+      {
+        "answer": "➤SS-304: Suitable for general outdoor and industrial use\n➤SS-316: Superior corrosion resistance for marine, coastal, and chemical environments\n\nSS-316 contains molybdenum, which enhances resistance to saltwater and chlorides.",
+        "question": "Which is better: SS-304 or SS-316 screws?"
+      },
+      {
+        "answer": "Mild steel screws generally offer higher tensile strength, but stainless steel screws provide superior corrosion resistance, longevity, and reliability in harsh environments.",
+        "question": "Are stainless screws stronger than mild steel screws?"
+      },
+      {
+        "answer": "They are manufactured according to applicable national and international fastener standards, depending on application requirements and customer specifications.",
+        "question": "What standards do SS self-tapping screws follow?"
+      }
+    ]
+  },
+  {
+    "id": "5cf14de5-9d9b-4139-9c0f-36c153badb85",
+    "created_at": "2025-12-26T07:01:24.20154+00:00",
+    "name": "SDS-HEX",
+    "slug": "sds-hex",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "SDS hex head screw with self-drilling tip for high-torque, secure, and fast metal fastening in industrial applications.",
+    "material": "Mild Steel (Grade C1022)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769149355282-Gemini_Generated_Image_s5tflds5tflds5tf-Photoroom-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "Hexagonal"
+      },
+      {
+        "key": "Drive Type",
+        "value": "External Hex Drive"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Fine Thread"
+      }
+    ],
+    "sub_category": "cf80d77d-7a5b-453a-a9b8-6da0d7bbe767",
+    "finish_images": {},
+    "head_type": "Hexagonal",
+    "thread_type": "Fine Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Sheet Metal",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769142583841-Gemini_Generated_Image_axaalgaxaalgaxaa-Photoroom.png"
+      },
+      {
+        "name": "Roofing",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770720687762-WhatsApp-Image-2026-01-13-at-6.01.55-PM-(1).jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/tech/1766740548754-Untitled-Project-(33).jpg",
+    "dimensional_specifications": [
+      {
+        "label": "Outer Diameter",
+        "symbol": "D",
+        "values": {
+          "4.8": "4.9(Max)",
+          "5.5": "5.6(Max)",
+          "4.8mm": "5.6(Max)",
+          "5.5mm": " 6.3 (Max)"
+        }
+      },
+      {
+        "label": "Inner Diameter",
+        "symbol": "d₁",
+        "values": {}
+      },
+      {
+        "label": "Head Diameter",
+        "symbol": "A",
+        "values": {
+          "4.8": "10.67-11.43",
+          "5.5": "13.97-14.78"
+        }
+      },
+      {
+        "label": "Head Height",
+        "symbol": "H",
+        "values": {
+          "4.8": "2.79-3.3",
+          "5.5": "3.61-3.94"
+        }
+      },
+      {
+        "label": "Thread Pitch",
+        "symbol": "P",
+        "values": {
+          "4.8": "1.6",
+          "5.5": "1.8"
+        }
+      }
+    ],
+    "material_grade": "",
+    "drive_type": "External Hex Drive",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [
+      {
+        "title": "DIN 7504-K",
+        "subtitle": "Certified Facility"
+      }
+    ],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 5,
+    "faqs": [
+      {
+        "answer": "An SDS hex head screw is a Self-Drilling Screw (SDS) with a hexagonal head and drill-point tip that drills, taps, and fastens metal in a single operation without pre-drilling.\n\nThe hex head allows high torque application using a spanner, socket, or nut driver, making it ideal for heavy-duty metal fastening.",
+        "question": "What is an SDS hex head screw?"
+      },
+      {
+        "answer": "SDS hex screws are widely used in structural and industrial applications requiring strong, reliable fastening.\n\nCommon applications include:\n\n➤Steel structures\n➤Metal roofing sheets\n➤Purlins and metal frames\n➤HVAC ducting systems\n➤Industrial fabrication\n➤Solar mounting systems\n➤Metal cladding panels",
+        "question": "What are SDS hex screws used for?"
+      },
+      {
+        "answer": "Yes. SDS hex screws are designed to drill directly into mild or structural steel.",
+        "question": "Can SDS hex screws drill through steel?"
+      },
+      {
+        "answer": "No. The self-drilling tip eliminates the need for pre-drilling, significantly reducing installation time and labor costs.",
+        "question": "Do SDS hex head screws require a pilot hole?"
+      },
+      {
+        "answer": "Hex head screws provide major advantages in heavy-duty applications:\n\n➤Higher torque without cam-out\n➤Faster installation using power tools\n➤Stronger grip with socket drivers\n➤Reduced risk of tool slippage\n➤Reliable fastening in structural work",
+        "question": "Why choose hex head instead of Phillips head screws?"
+      },
+      {
+        "answer": "They are suitable for fastening:\n\n➤Mild steel\n➤Structural steel\n➤Aluminum sections\n➤Roofing sheets\n➤Metal cladding panels\n➤Composite panels",
+        "question": "What materials can SDS hex screws fasten?"
+      },
+      {
+        "answer": "Common diameters include:\n➤4.8 mm\n➤5.5 mm\nLengths vary depending on material thickness and application requirements.",
+        "question": "What sizes are available for SDS hex screws?"
+      },
+      {
+        "answer": "Yes. Many variants include bonded washers, especially for roofing applications.\n\nEPDM washers provide:\n\n➤Waterproof sealing\n➤Vibration resistance\n➤Protection against corrosion\n➤Long-term durability",
+        "question": "Do SDS hex screws come with washers?"
+      },
+      {
+        "answer": "They are installed using:\n\n➤Socket drivers\n➤Impact drivers\n➤Power drills with hex sockets\n➤Nut drivers\n\nImpact drivers are preferred for large-scale installations.",
+        "question": "What tools are used to install SDS hex screws?"
+      },
+      {
+        "answer": "Yes. Hex head self-drilling screws with EPDM washers are the industry standard for metal roofing and cladding systems due to their sealing capability and high holding strength.",
+        "question": "Are SDS hex screws suitable for roofing?"
+      },
+      {
+        "answer": "These screws are essential across many sectors:\n\n➤Construction and infrastructure\n➤Steel fabrication\n➤Roofing systems\n➤Solar mounting structures\n➤Automotive structures\n➤Industrial equipment manufacturing",
+        "question": "Which industries use SDS hex screws?"
+      },
+      {
+        "answer": "Yes. Manufacturers supply SDS hex screws in bulk packaging for:\n\n➤Distributors\n➤Contractors\n➤EPC companies\n➤OEM buyers\n➤Export markets",
+        "question": "Are SDS hex screws available for bulk supply?"
+      },
+      {
+        "answer": "“TEK screw” is another name for a self-drilling screw, referring to its drill-point design.",
+        "question": "What is a TEK screw?"
+      }
+    ]
+  },
+  {
+    "id": "312f22b0-6aca-42ed-b55a-c3793b2d31a0",
+    "created_at": "2025-12-24T12:07:36.737324+00:00",
+    "name": "SDS-TRUSS-PHILLIPS",
+    "slug": "sds-truss",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "SDS truss head screw with self-drilling point for wide-surface, strong, and vibration-resistant metal fastening.",
+    "material": "Mild Steel (Grade C1022)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769149342351-Gemini_Generated_Image_xt7plkxt7plkxt7p-Photoroom-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "Truss Head"
+      },
+      {
+        "key": "Drive Type",
+        "value": "Phillips"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Fine Thread"
+      }
+    ],
+    "sub_category": "cf80d77d-7a5b-453a-a9b8-6da0d7bbe767",
+    "finish_images": {},
+    "head_type": "Truss Head",
+    "thread_type": "Fine Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Aluminium Work",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770089960928-WhatsApp-Image-2026-01-28-at-6.15.49-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/tech/1766740468222-Untitled-Project-(4)-(1).jpg",
+    "dimensional_specifications": [
+      {
+        "label": "Outer Diameter",
+        "symbol": "D",
+        "values": {
+          "4.2": "4.04-4.22"
+        }
+      },
+      {
+        "label": "Inner Diameter",
+        "symbol": "d₁",
+        "values": {
+          "4.2": "2.95-3.1"
+        }
+      },
+      {
+        "label": "Head Diameter",
+        "symbol": "A",
+        "values": {
+          "4.2": "7.77-8.18"
+        }
+      },
+      {
+        "label": "Head Height",
+        "symbol": "H",
+        "values": {
+          "4.2": "1.65-1.9"
+        }
+      },
+      {
+        "label": "Thread Pitch",
+        "symbol": "P",
+        "values": {
+          "4.2": "1.4"
+        }
+      }
+    ],
+    "material_grade": "",
+    "drive_type": "Phillips",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [
+      {
+        "title": "DIN 75040-T",
+        "subtitle": "Certified Facility"
+      }
+    ],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 4,
+    "faqs": [
+      {
+        "answer": "An SDS truss head screw is a Self-Drilling Screw (SDS) featuring a wide, low-profile truss head and a drill-point tip that drills, taps, and fastens in a single operation.\n\nThe extra-wide head provides superior surface coverage, strong clamping force, and excellent resistance to pull-through in thin materials.",
+        "question": "What is an SDS truss head screw?"
+      },
+      {
+        "answer": "These screws are commonly used where a large bearing surface is required without countersinking.\n\nTypical applications include:\n\nThin sheet metal fastening\nPlastic panels and boards\nHVAC ducting\nRoofing accessories\nElectrical enclosures and fittings\nFurniture components\nSignage installation",
+        "question": "What are SDS truss head screws used for?"
+      },
+      {
+        "answer": "Yes. SDS truss head screws are engineered to drill directly into mild steel without pre-drilling.",
+        "question": "Can SDS truss screws drill into steel?"
+      },
+      {
+        "answer": "Truss head screws offer several advantages over pan head screws:\n\nLarger clamping area\nBetter performance in thin materials\nReduced risk of pull-through\nImproved load distribution\nEnhanced holding in soft or brittle materials",
+        "question": "What is the advantage of truss head over PAN head screws?"
+      },
+      {
+        "answer": "Common sizes include:\n\nDiameter: 4.2 mm to 4.8 mm\nLength: Multiple options depending on application and material thickness\n\nLarger diameters generally provide higher strength and drilling capacity.",
+        "question": "What sizes are available for SDS truss head screws?"
+      },
+      {
+        "answer": "Yes — corrosion resistance depends on material and coating.\n\nCommon options include:\n\nZinc-plated carbon steel (indoor use)\nRuspert or specialized coatings (harsh environments)\nStainless steel (maximum corrosion resistance)",
+        "question": "Are SDS truss screws rust-resistant?"
+      },
+      {
+        "answer": "Choose based on:\n\nTotal material thickness\nRequired penetration into base metal\nLoad and vibration conditions\nEnvironmental exposure\nCorrosion resistance needs",
+        "question": "How to select the correct SDS truss screw size?"
+      },
+      {
+        "answer": "Washer head screws include an integrated washer for even greater bearing surface, while truss heads achieve similar performance with a lower profile.",
+        "question": "What is the difference between truss head and washer head screws?"
+      },
+      {
+        "answer": "In many thin-sheet applications, yes — especially where removability or faster installation is required.",
+        "question": "Can SDS truss screws replace rivets?"
+      },
+      {
+        "answer": "Different drill point numbers correspond to varying steel thickness capacities.",
+        "question": "What drill point types are available?"
+      }
+    ]
+  },
+  {
+    "id": "f790900a-b937-4b86-9eeb-08d78b89f3f6",
+    "created_at": "2025-12-23T06:37:51.373883+00:00",
+    "name": "Chipboard Screws",
+    "slug": "chipboard-screws",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Precision Engineered C1022 Steel | Deep Coarse Threads | Superior Wood Holding",
+    "material": "Mild Steel (Grade C1022) | Stainless Steel (Grade SS204 ,SS304,SS316)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769148985750-WhatsApp_Image_2026-01-15_at_3.57.20_PM__1_-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": " CSK (Countersunk)"
+      },
+      {
+        "key": "Drive Type",
+        "value": "Pozi & Phillips"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Deep&Coarse Thread"
+      }
+    ],
+    "sub_category": "65105df8-d928-4d55-9f1c-a2ced332e9f3",
+    "finish_images": {},
+    "head_type": " CSK (Countersunk)",
+    "thread_type": "Deep&Coarse Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Wood Partition",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770639957222-Gemini_Generated_Image_dibk49dibk49dibk-Photoroom.png"
+      },
+      {
+        "name": "Cupboard Fitting",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770720380259-WhatsApp-Image-2026-02-10-at-4.16.08-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/tech/1766745608666-Untitled-Project-(36).jpg",
+    "dimensional_specifications": [
+      {
+        "label": "Outer Diameter",
+        "symbol": "D",
+        "values": {
+          "M3.0": "2.75-3",
+          "M3.5": "3.2-3.5",
+          "M4.0": "3.7-4",
+          "M4.5": "4.2-4.5",
+          "M5.0": "4.7-5",
+          "M6.0": "5.7-6"
+        }
+      },
+      {
+        "label": "Inner Diameter",
+        "symbol": "d₁",
+        "values": {
+          "M3.0": "1.75-2",
+          "M3.5": "2-2.2",
+          "M4.0": "2.25-2.5",
+          "M4.5": "2.45-2.7",
+          "M5.0": "2.8-3.1",
+          "M6.0": "3.5-3.8"
+        }
+      },
+      {
+        "label": "Head Diameter",
+        "symbol": "A",
+        "values": {
+          "M3.0": "5.7-6",
+          "M3.5": "6.64-7",
+          "M4.0": "7.64-8",
+          "M4.5": "8.64-9",
+          "M5.0": "9.64-10",
+          "M6.0": "11.57-12"
+        }
+      },
+      {
+        "label": "Head Height",
+        "symbol": "H",
+        "values": {
+          "M3.0": "1.6-1.9",
+          "M3.5": "1.8-2.2",
+          "M4.0": "2.1-2.6",
+          "M4.5": "2.4-2.9",
+          "M5.0": "2.7-3.3",
+          "M6.0": "2.9-3.7"
+        }
+      },
+      {
+        "label": "Thread Pitch",
+        "symbol": "P",
+        "values": {
+          "M3.0": "1.35",
+          "M3.5": "1.6",
+          "M4.0": "1.8",
+          "M4.5": "2",
+          "M5.0": "2.2",
+          "M6.0": "2.6"
+        }
+      }
+    ],
+    "material_grade": "",
+    "drive_type": "Pozi & Phillips",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [
+      {
+        "title": "DIN 7505",
+        "subtitle": "Certified Facility"
+      }
+    ],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 1,
+    "faqs": [
+      {
+        "answer": "Chipboard screws are designed for fastening engineered wood materials such as particle board, MDF, plywood, laminates, and furniture components without splitting or damaging the material.\n\nThey are widely used in cabinetry, modular furniture, interior fit-outs, and woodworking applications.",
+        "question": "What is a chipboard screw used for?"
+      },
+      {
+        "answer": "Yes, chipboard screws can be used in both softwood and hardwood.\n\nHowever, they perform best in engineered wood materials like particle board and MDF due to their deep threads and slim shank design.\n\nFor dense hardwood, a pilot hole is recommended to prevent splitting.",
+        "question": "Can chipboard screws be used in solid wood?"
+      },
+      {
+        "answer": "Most chipboard screws are self-tapping and can be driven directly into soft materials without a pilot hole.\n\nA pilot hole is recommended when:\n\n➤Working with hardwood\n➤Screwing near edges\n➤Using larger diameters\n➤Preventing material splitting",
+        "question": "Do chipboard screws need a pilot hole?"
+      },
+      {
+        "answer": "Chipboard screws differ from traditional wood screws in several ways:\n\n➤Thinner shank to reduce splitting\n➤Deeper, sharper threads for low-density materials\n➤Often partially threaded for stronger clamping\n➤Designed specifically for particle board and MDF\n\nWood screws are typically thicker and optimized for solid timber.",
+        "question": "What is the difference between wood screws and chipboard screws?"
+      },
+      {
+        "answer": "Countersunk head chipboard screws with a sharp point are ideal for furniture, cabinets, wardrobes, and modular installations.\n\nThese screws sit flush with the surface, providing a clean finish without protrusions.\n\nCommon drive types include Phillips and Torx for improved torque transfer.",
+        "question": "Which chipboard screw is best for furniture assembly?"
+      },
+      {
+        "answer": "Standard zinc-plated chipboard screws provide basic corrosion resistance for indoor use.\n\nFor humid or outdoor environments, use:\n➤Hot-dip galvanized screws\n➤Stainless steel chipboard screws\n➤Specialized coated screws\n\nThese offer superior durability against moisture and corrosion.",
+        "question": "Are chipboard screws rust-resistant?"
+      },
+      {
+        "answer": "Chipboard screws are available in a wide range of sizes depending on the application.\n\n➤Common diameter range: 3 mm to 6 mm\n➤Common length range: 12 mm to 100 mm\n\nLonger screws are used for structural wood connections, while shorter screws are used for panels and hardware fixing.",
+        "question": "What sizes are available for chipboard screws?"
+      },
+      {
+        "answer": "Yes. Chipboard screws are widely used for plywood, MDF, particle board, laminated boards, and other sheet materials.\n\nTheir thread design provides strong holding power without damaging layered materials.",
+        "question": "Can chipboard screws be used for plywood?"
+      },
+      {
+        "answer": "Deep, aggressive threads increase grip in low-density materials like particle board and MDF, ensuring secure fastening and resistance to pull-out.\n\nThis design also improves load distribution across fragile wood fibers.",
+        "question": "Why do chipboard screws have deep threads?"
+      },
+      {
+        "answer": "Countersunk heads are the most common.\n\nThey allow the screw to sit flush with or slightly below the surface, which is ideal for furniture and visible installations.\n\nOther available head types include:\n\n➤Pan head\n➤Raised countersunk head\n➤Washer head (for higher holding force)",
+        "question": "What head type is used in chipboard screws?"
+      }
+    ]
+  },
+  {
+    "id": "6a1eb8d8-28c4-4c56-97af-a1b60d3a57d5",
+    "created_at": "2026-01-27T10:39:09.86987+00:00",
+    "name": "Machine Screw",
+    "slug": "machine-screw",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Precision-threaded machine screw designed for accurate, vibration-resistant fastening in machinery, electrical panels, and industrial assemblies.",
+    "material": "Mild Steel (Grade C1010 | C1008)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769510469563-WhatsApp_Image_2026-01-26_at_12.42.36_PM-removebg-preview-(1).png"
+    ],
+    "long_description": "",
+    "specifications": [],
+    "sub_category": "de7177c8-b572-48ac-acca-222fecd08cbf",
+    "finish_images": {},
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [],
+    "type_images": {},
+    "position": 12,
+    "faqs": [
+      {
+        "answer": "A machine screw is a precision fastener with uniform, fine threads designed to be used with pre-tapped holes or nuts. It is commonly used in metal, machinery, electronics, and industrial assemblies where secure and accurate fastening is required.",
+        "question": "What is the difference between a machine screw and a self-tapping screw?"
+      },
+      {
+        "answer": "Machine screw: Requires a pre-threaded (tapped) hole or a nut\nSelf-tapping screw: Creates its own threads in the material during installation\n\nMachine screws are ideal for applications requiring repeat assembly and precise fit.",
+        "question": "What is the difference between a machine screw and a self-tapping screw?"
+      },
+      {
+        "answer": "Machine screws are widely used in:\n\n⊙Machinery assembly\n⊙Electrical equipment & panels\n⊙Automotive components\n⊙Electronics & appliances\n⊙Metal fabrication\n⊙Industrial equipment",
+        "question": "What are machine screws used for?"
+      },
+      {
+        "answer": "Machine screws are specified by:\n\nDiameter × Thread Pitch × Length\n\nExamples:\n\n⊙M4 × 20 mm (metric)\n⊙#8-32 × 1\" (imperial)",
+        "question": "How are machine screws sized?"
+      },
+      {
+        "answer": "They can be used:\n\nWith nuts, or\nDirectly in pre-tapped holes\n\ndepending on the application.",
+        "question": "Do machine screws need nuts?"
+      },
+      {
+        "answer": "They are essential fasteners in:\n\n⊙Manufacturing equipment\n⊙Electrical panels\n⊙Household appliances\n⊙Vehicles\n⊙Precision instruments",
+        "question": "Where are machine screws commonly used in industry?"
+      },
+      {
+        "answer": "Yes. Machine screws are commonly supplied in bulk packaging for wholesalers, distributors, contractors, and OEM buyers worldwide.",
+        "question": "Are machine screws available in bulk supply?"
+      }
+    ]
+  },
+  {
+    "id": "b466b943-a1e4-45f3-8f43-124b8306e486",
+    "created_at": "2026-01-15T11:48:11.083151+00:00",
+    "name": "HEX Head Flange Torx Screw",
+    "slug": "hex-head-flange-torx-screw",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Hex head flange Torx screw designed for maximum torque transfer, wide bearing surface, and secure fastening in heavy-duty metal and industrial applications.",
+    "material": "Mild Steel (Grade C1010)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769149456740-UntitledProject47-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "HEX Head "
+      },
+      {
+        "key": "Drive Type",
+        "value": "Torx (Star)"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Dual/Double Thread"
+      }
+    ],
+    "sub_category": "794bca93-6366-4b6a-a01b-60f610ed22d3",
+    "finish_images": {},
+    "head_type": "HEX Head ",
+    "thread_type": "Dual/Double Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Roofing",
+        "image": ""
+      },
+      {
+        "name": "cement board installation",
+        "image": ""
+      },
+      {
+        "name": "Electrical & HVAC",
+        "image": ""
+      },
+      {
+        "name": "Window Fixing Frame",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1768477389006-WhatsApp-Image-2026-01-15-at-3.32.31-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": "Torx (Star)",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 10,
+    "faqs": []
+  },
+  {
+    "id": "65ac4c61-9fbb-47da-8829-839b4a0f5a34",
+    "created_at": "2026-01-28T13:01:16.073527+00:00",
+    "name": "Wire Nails ",
+    "slug": "wire-nails-with-head",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "High-quality wire nails manufactured for strong holding power and reliable fastening in woodworking, construction, and general industrial applications.",
+    "material": "Mild Steel (Grade C1008 | C1010)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769669999896-Untitled_project_-_2026-01-29T122931.323-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      }
+    ],
+    "sub_category": "83d2581b-855b-4de0-a00a-2272dcd7de86",
+    "finish_images": {},
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 13,
+    "faqs": []
+  },
+  {
+    "id": "8cb2ee10-9a47-4c66-8fe5-a679925580bc",
+    "created_at": "2025-12-24T11:53:01.845093+00:00",
+    "name": "SDS-PAN-PHILLIPS",
+    "slug": "sds-pan",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Hardened C1022 Steel | Self-Drilling Tip | Strong Pan Head Clamping",
+    "material": "Mild Steel (Grade C1022)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769149329231-Gemini_Generated_Image_qixue4qixue4qixu-Photoroom-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "Pan Head"
+      },
+      {
+        "key": "Drive Type",
+        "value": "Phillips"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Fine Thread"
+      }
+    ],
+    "sub_category": "cf80d77d-7a5b-453a-a9b8-6da0d7bbe767",
+    "finish_images": {},
+    "head_type": "Pan Head",
+    "thread_type": "Fine Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Aluminium Work",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770089979640-WhatsApp-Image-2026-01-28-at-6.15.58-PM.jpeg"
+      },
+      {
+        "name": "Sheet Metal",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769142603089-Gemini_Generated_Image_qcsmyvqcsmyvqcsm-Photoroom.png"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/tech/1766740532707-Untitled-Project-(3)-(1).jpg",
+    "dimensional_specifications": [
+      {
+        "label": "Outer Diameter",
+        "symbol": "D",
+        "values": {
+          "3.5": "3.35-3.53",
+          "4.2": "4.04-4.22"
+        }
+      },
+      {
+        "label": "Inner Diameter",
+        "symbol": "d₁",
+        "values": {
+          "3.5": "2.51-2.64",
+          "4.2": "2.95-3.1"
+        }
+      },
+      {
+        "label": "Head Diameter",
+        "symbol": "dk",
+        "values": {
+          "3.5": "6.64-7",
+          "4.2": "7.64-8"
+        }
+      },
+      {
+        "label": "Head Height",
+        "symbol": "H",
+        "values": {
+          "3.5": "2.35-2.6",
+          "4.2": "2.8-3.1"
+        }
+      },
+      {
+        "label": "Thread Pitch",
+        "symbol": "P",
+        "values": {
+          "3.5": "1.3",
+          "4.2": "1.4"
+        }
+      }
+    ],
+    "material_grade": "",
+    "drive_type": "Phillips",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [
+      {
+        "title": "DIN 7504-M",
+        "subtitle": "Certified Facility"
+      }
+    ],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 3,
+    "faqs": [
+      {
+        "answer": "An SDS PAN head screw is a Self-Drilling Screw (SDS) featuring a pan-shaped head and drill-point tip that drills, taps, and fastens in a single operation.\n\nThe rounded head sits above the surface and provides a large bearing area, making it ideal where flush finishing is not required.",
+        "question": "What is an SDS PAN head screw?"
+      },
+      {
+        "answer": "SDS PAN screws are commonly used for fastening metal components quickly and securely without pre-drilling.\n\nTypical applications include:\n\nSheet metal fixing\nBrackets and supports\nElectrical fittings and panels\nAluminum sections\nHVAC ducting\nFurniture hardware\nLight structural assemblies",
+        "question": "What are SDS PAN head screws used for?"
+      },
+      {
+        "answer": "Yes. SDS PAN screws are engineered to drill directly into mild steel without a pilot hole.",
+        "question": "Can SDS PAN screws drill into steel?"
+      },
+      {
+        "answer": "No. The self-drilling tip eliminates the need for a pilot hole, reducing installation time, labor costs, and tool usage.",
+        "question": "Do SDS PAN screws need a pilot hole?"
+      },
+      {
+        "answer": "A PAN head is a low, rounded head with a flat underside that sits above the material surface.\n\nIt distributes clamping force across a wider area, reducing the risk of material deformation.",
+        "question": "What does PAN head mean in screws?"
+      },
+      {
+        "answer": "Common sizes include:\n\n➤Diameter: 3.5 mm to 4.2 mm\n➤Length: Multiple options depending on application\n\nLarger diameters provide higher strength and drilling capacity.",
+        "question": "What sizes are available for SDS PAN head screws?"
+      },
+      {
+        "answer": "They are suitable for fastening a wide range of materials:\n\n➤Mild steel\n➤Sheet metal\n➤Aluminum\n➤Plastic components\n➤Wood (with metal fittings)\n➤Composite panels",
+        "question": "What materials can SDS PAN screws fasten?"
+      },
+      {
+        "answer": "Yes — corrosion resistance depends on the material or coating.\n\nCommon options include:\n\n➤Zinc-plated carbon steel (indoor use)\n➤Ruspert or specialized coatings (harsh environments)\n➤Stainless steel (maximum corrosion resistance)",
+        "question": "Are SDS PAN screws rust-resistant?"
+      },
+      {
+        "answer": "Yes. Manufacturers typically supply them in bulk packaging for:\n\n➤Distributors\n➤Contractors\n➤OEM buyers\n➤Large construction projects",
+        "question": "Are SDS PAN screws available in bulk supply?"
+      }
+    ]
+  },
+  {
+    "id": "485687c4-3b77-4389-aa45-3f150cd8d015",
+    "created_at": "2026-01-16T06:56:47.102548+00:00",
+    "name": "DOOR MAGNET",
+    "slug": "door-magnet",
+    "category": "FITTINGS",
+    "short_description": "Durable door magnet designed for secure door holding, smooth operation, and long-lasting performance in residential and commercial applications.",
+    "material": "Plastic ABS | PP Virgin(Polypropylene)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769503913357-WhatsApp_Image_2026-01-27_at_2.14.02_PM-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Standard Packing",
+        "value": "CLASSONE/PCS"
+      }
+    ],
+    "sub_category": "26afe110-7655-4bc7-bb58-69a24e9b875c",
+    "finish_images": {
+      "BROWN": "https://supabase-proxy-dfpl.vsakariya24.workers.dev/storage/v1/object/public/product-images/finishes/1772711835778-WhatsApp_Image_2026-01-26_at_12.32.28_PM-removebg-preview.png",
+      "IVORY": "https://supabase-proxy-dfpl.vsakariya24.workers.dev/storage/v1/object/public/product-images/finishes/1772711846566-WhatsApp_Image_2026-01-26_at_12.35.13_PM-removebg-preview.png",
+      "WHITE": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1769490549442-WhatsApp_Image_2026-01-26_at_12.29.07_PM-removebg-preview.png",
+      "Standard": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1770284500070-l_magnet-removebg-preview.png"
+    },
+    "head_type": "",
+    "thread_type": "",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "CUPBOARD FITTING",
+        "image": ""
+      },
+      {
+        "name": "FURNITURE FITTTING",
+        "image": ""
+      },
+      {
+        "name": "DOOR FITTING",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769593761426-WhatsApp-Image-2026-01-27-at-4.51.05-PM-(1).jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": "",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [],
+    "type_images": {},
+    "position": 14,
+    "faqs": []
+  },
+  {
+    "id": "153d0cc0-585b-4a8c-bad2-1158667ecc9a",
+    "created_at": "2026-01-15T09:07:21.29187+00:00",
+    "name": "Carriage Bolt",
+    "slug": "carriage-bolt",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "Heavy-duty carriage bolt with smooth round head and square neck, designed for secure, anti-rotation fastening in wood, metal, and structural applications.",
+    "material": "Mild Steel (Grade C1010)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769149433030-Untitled_Project__45_-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "Mashroom Head"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Metric Thread"
+      }
+    ],
+    "sub_category": "e08b1e12-9947-42ef-8164-8f0fb46828cd",
+    "finish_images": {},
+    "head_type": "Mashroom Head",
+    "thread_type": "Metric Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Wood working",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769593894032-WhatsApp-Image-2026-01-27-at-3.17.56-PM.jpeg"
+      },
+      {
+        "name": "Door Fiting",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1769593837278-WhatsApp-Image-2026-01-27-at-4.08.01-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": "",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 8,
+    "faqs": [
+      {
+        "answer": "A carriage bolt is a fastener with a smooth domed (round) head and a square neck beneath the head that prevents the bolt from rotating when tightened. It is primarily used for fastening wood to wood or wood to metal.\n\nBecause the head has no drive slot, tightening is done using a nut on the threaded end.",
+        "question": "What is a carriage bolt?"
+      },
+      {
+        "answer": "It was originally developed for horse-drawn carriage construction, where the smooth rounded head prevented injury, snagging, and tampering.\n",
+        "question": "Why is it called a carriage bolt?"
+      },
+      {
+        "answer": "Carriage bolts are widely used where a clean, snag-free surface and secure fastening are required.\n\nCommon applications include:\n\n⊙Wood construction\n⊙Furniture assembly\n⊙Fencing and gates\n⊙Decking and pergolas\n⊙Playground equipment\n⊙Agricultural machinery\n⊙Metal-to-wood connections\n⊙Structural timber joints",
+        "question": "What is a carriage bolt used for?"
+      },
+      {
+        "answer": "Yes, washers are recommended because they:\n\n⊙Distribute load over a larger area\n⊙Prevent damage to soft materials\n⊙Improve clamping performance\n⊙Reduce loosening over time",
+        "question": "Do carriage bolts need washers?"
+      },
+      {
+        "answer": "A carriage bolt has unique features:\n\n⊙Domed round head\n⊙Square neck under the head\n⊙No drive slot or recess\n⊙Installed from one side only\n\nRegular bolts (such as hex bolts) typically require tools on both the head and nut sides.",
+        "question": "What is the difference between a carriage bolt and a regular bolt?"
+      },
+      {
+        "answer": "The square neck beneath the head bites into the material — usually wood — creating a mechanical lock that prevents rotation while the nut is tightened.",
+        "question": "How does a carriage bolt prevent spinning?"
+      },
+      {
+        "answer": "1.Drill a hole through the materials\n\n2.Insert the bolt from the smooth head side\n\n3.Tap gently to seat the square neck\n\n4.Place washer and nut on the threaded end\n\n5.Tighten using a wrench or socket",
+        "question": "How do you install a carriage bolt?"
+      },
+      {
+        "answer": "Corrosion resistance depends on material and coating:\n\n⊙Galvanized steel → Good outdoor protection\n⊙Stainless steel → Excellent corrosion resistance\n⊙Mild steel → Suitable for indoor use unless coated",
+        "question": "Are carriage bolts rust-resistant?"
+      },
+      {
+        "answer": "Yes. Manufacturers supply carriage bolts in bulk packaging for:\n\n⊙Wholesalers\n⊙Distributors\n⊙OEM manufacturers\n⊙Contractors\n⊙Export markets",
+        "question": "Are carriage bolts available for bulk supply?"
+      },
+      {
+        "answer": "They are widely used across multiple sectors:\n\n⊙Construction and infrastructure\n⊙Furniture manufacturing\n⊙Agriculture equipment\n⊙Transportation equipment\n⊙Solar mounting systems\n⊙Industrial fabrication",
+        "question": "Which industries use carriage bolts?"
+      }
+    ]
+  },
+  {
+    "id": "115b9172-5f3d-44b9-9d5d-d28d3a195f95",
+    "created_at": "2026-01-15T10:32:27.693408+00:00",
+    "name": "CSK Head Flange Torx Screw",
+    "slug": "nylon-frame-fixing-anchors-csk",
+    "category": "FASTENERS SEGMENT",
+    "short_description": "CSK head flange Torx screw engineered for high torque control, wide load distribution, and secure fastening in precision metal and industrial applications.",
+    "material": "Mild Steel (Grade C1010)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769149447489-Gemini_Generated_Image_j9x7yij9x7yij9x7-Photoroom-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Core Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Tensile Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Surface Hardness",
+        "value": "Standard"
+      },
+      {
+        "key": "Installation Speed",
+        "value": "Standard"
+      },
+      {
+        "key": "Salt Spray Resistance",
+        "value": "Standard"
+      },
+      {
+        "key": "Temperature Range",
+        "value": "Standard"
+      },
+      {
+        "key": "Shear Strength",
+        "value": "Standard"
+      },
+      {
+        "key": "Head Type",
+        "value": "CSK Head "
+      },
+      {
+        "key": "Drive Type",
+        "value": "Torx (Star)"
+      },
+      {
+        "key": "Thread Type",
+        "value": "Dual/Double Thread"
+      }
+    ],
+    "sub_category": "794bca93-6366-4b6a-a01b-60f610ed22d3",
+    "finish_images": {},
+    "head_type": "CSK Head ",
+    "thread_type": "Dual/Double Thread",
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Roofing",
+        "image": ""
+      },
+      {
+        "name": "Cement Board Installation",
+        "image": ""
+      },
+      {
+        "name": "Electrical & HVAC",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1768473312374-WhatsApp-Image-2026-01-15-at-3.32.22-PM.jpeg"
+      },
+      {
+        "name": "Fiber cement board  to steel",
+        "image": ""
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": "Torx (Star)",
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [
+      {
+        "name": "WHITE",
+        "image": "",
+        "labels": "M1,M2,M3"
+      }
+    ],
+    "type_images": {},
+    "position": 9,
+    "faqs": []
+  },
+  {
+    "id": "35561cf0-7b2a-4d6a-8313-a27d755f2650",
+    "created_at": "2026-01-26T05:15:27.985509+00:00",
+    "name": "DOOR CATCHER",
+    "slug": "door-catcher",
+    "category": "FITTINGS",
+    "short_description": "Durable door catcher designed to hold doors securely in place while preventing impact damage and unwanted movement.",
+    "material": "Plastic ABS | PP Virgin(Polypropylene)",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769495823908-Gemini_Generated_Image_ykkf98ykkf98ykkf-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Standard Packing",
+        "value": "CLASSONE/PCS"
+      }
+    ],
+    "sub_category": "afdcb6a0-be6f-49de-bef8-503290fd54f9",
+    "finish_images": {
+      "BROWN": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1769496645046-Untitled_Project_-_2026-01-27T121745.381-removebg-preview.png",
+      "IVORY": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1769497647425-Untitled_project_-_2026-01-27T122543.041-removebg-preview.png",
+      "WHITE": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1769496303398-Untitled_Project_-_2026-01-27T121341.817-removebg-preview.png"
+    },
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Door Fittting",
+        "image": ""
+      },
+      {
+        "name": "Cupboard Fitting",
+        "image": ""
+      },
+      {
+        "name": "Furniture Fitting",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770040101472-WhatsApp-Image-2026-01-28-at-6.11.30-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [],
+    "type_images": {},
+    "position": 18,
+    "faqs": []
+  },
+  {
+    "id": "60347529-46c4-487d-a9c5-c63c5fe8358a",
+    "created_at": "2026-01-26T05:20:22.944839+00:00",
+    "name": "WALL GRIP(PULG)",
+    "slug": "wall-grip-pulg-",
+    "category": "FITTINGS",
+    "short_description": "High-strength wall grip plug designed for secure anchoring of screws in concrete, brick, and masonry walls.",
+    "material": "PLASTIC",
+    "images": [
+      "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/gallery/1769497747864-WhatsApp_Image_2026-01-26_at_10.50.42_AM-removebg-preview.png"
+    ],
+    "long_description": "",
+    "specifications": [
+      {
+        "key": "Standard Packing",
+        "value": "100 PCS PER PACKET"
+      }
+    ],
+    "sub_category": "db6a9c88-0f47-4ad4-9907-69611c447b0e",
+    "finish_images": {
+      "WHITE": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/finishes/1769498228360-WhatsApp_Image_2026-01-26_at_4.40.16_PM__1_-removebg-preview.png"
+    },
+    "head_type": null,
+    "thread_type": null,
+    "product_code": null,
+    "child_category": null,
+    "engineering_highlights": [],
+    "applications": [
+      {
+        "name": "Hardware fitting",
+        "image": ""
+      },
+      {
+        "name": "Electrical work",
+        "image": ""
+      },
+      {
+        "name": "Funiture manufuturing",
+        "image": "https://wterhjmgsgyqgbwviomo.supabase.co/storage/v1/object/public/product-images/applications/1770040255983-WhatsApp-Image-2026-01-30-at-4.16.46-PM.jpeg"
+      }
+    ],
+    "features": [],
+    "technical_drawing": "",
+    "dimensional_specifications": [],
+    "material_grade": "",
+    "drive_type": null,
+    "point_type": null,
+    "standards": null,
+    "pull_out_strength": null,
+    "hardness": null,
+    "salt_spray_hours": null,
+    "packing_details": null,
+    "coating_details": null,
+    "technical_name": null,
+    "sku": null,
+    "highlights": null,
+    "performance_metrics": {},
+    "logistics_info": {},
+    "installation_info": {},
+    "downloads": {},
+    "iso_certified": false,
+    "certifications": [],
+    "size_images": [],
+    "type_images": {},
+    "position": 19,
+    "faqs": []
+  }
+]

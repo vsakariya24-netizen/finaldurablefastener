@@ -1,0 +1,104 @@
+[
+  {
+    "id": "68ee0d4c-87ba-4abe-adc8-f1802e1ccced",
+    "category_id": "3b7bbae4-95d7-49b9-91dc-a91606de0765",
+    "name": "POP Drywall (Gypsum) Screw",
+    "created_at": "2025-12-01T09:58:12.792417+00:00"
+  },
+  {
+    "id": "90669ded-b973-4c90-bf21-c9863576901b",
+    "category_id": "3b7bbae4-95d7-49b9-91dc-a91606de0765",
+    "name": "M.S. Sheet Metal Self Tapping",
+    "created_at": "2025-12-01T09:58:24.567305+00:00"
+  },
+  {
+    "id": "7c6f2fe8-84c5-49c0-b302-2281b98a981f",
+    "category_id": "3b7bbae4-95d7-49b9-91dc-a91606de0765",
+    "name": "S.S. Self Tapping Screw",
+    "created_at": "2025-12-01T09:59:50.224616+00:00"
+  },
+  {
+    "id": "65105df8-d928-4d55-9f1c-a2ced332e9f3",
+    "category_id": "3b7bbae4-95d7-49b9-91dc-a91606de0765",
+    "name": "Chipboard Screw",
+    "created_at": "2025-12-01T09:59:56.597164+00:00"
+  },
+  {
+    "id": "cf80d77d-7a5b-453a-a9b8-6da0d7bbe767",
+    "category_id": "3b7bbae4-95d7-49b9-91dc-a91606de0765",
+    "name": "Self Drilling Screw (SDS)",
+    "created_at": "2025-12-01T10:04:42.908604+00:00"
+  },
+  {
+    "id": "26afe110-7655-4bc7-bb58-69a24e9b875c",
+    "category_id": "21ac474c-e162-4269-9a67-3384e2bb324b",
+    "name": "Door Magnet",
+    "created_at": "2025-12-01T10:06:06.727219+00:00"
+  },
+  {
+    "id": "03753f8d-788e-468f-bb71-25d9ef5cdc7c",
+    "category_id": "21ac474c-e162-4269-9a67-3384e2bb324b",
+    "name": "Buffers",
+    "created_at": "2025-12-01T10:06:14.751444+00:00"
+  },
+  {
+    "id": "33ebec6a-a0b6-4b7e-99c8-ecd26f49cae1",
+    "category_id": "21ac474c-e162-4269-9a67-3384e2bb324b",
+    "name": "Door Silencers",
+    "created_at": "2025-12-01T10:06:21.105581+00:00"
+  },
+  {
+    "id": "96a72a3c-e8d4-49a9-874f-6ad3228323f4",
+    "category_id": "21ac474c-e162-4269-9a67-3384e2bb324b",
+    "name": "Caster Wheels",
+    "created_at": "2025-12-01T10:06:34.873825+00:00"
+  },
+  {
+    "id": "ed195c13-6b9a-4451-b031-5ae701d45051",
+    "category_id": "21ac474c-e162-4269-9a67-3384e2bb324b",
+    "name": "Auto Hinges",
+    "created_at": "2025-12-01T10:06:42.471872+00:00"
+  },
+  {
+    "id": "db6a9c88-0f47-4ad4-9907-69611c447b0e",
+    "category_id": "21ac474c-e162-4269-9a67-3384e2bb324b",
+    "name": "Wall Grip",
+    "created_at": "2025-12-01T10:06:48.731658+00:00"
+  },
+  {
+    "id": "e08b1e12-9947-42ef-8164-8f0fb46828cd",
+    "category_id": "3b7bbae4-95d7-49b9-91dc-a91606de0765",
+    "name": "Carriage Bolt",
+    "created_at": "2026-01-15T08:42:55.880335+00:00"
+  },
+  {
+    "id": "794bca93-6366-4b6a-a01b-60f610ed22d3",
+    "category_id": "3b7bbae4-95d7-49b9-91dc-a91606de0765",
+    "name": "Nylon Frame Fixing Anchors",
+    "created_at": "2026-01-15T09:53:50.307265+00:00"
+  },
+  {
+    "id": "afdcb6a0-be6f-49de-bef8-503290fd54f9",
+    "category_id": "21ac474c-e162-4269-9a67-3384e2bb324b",
+    "name": "Door Catcher",
+    "created_at": "2026-01-26T05:02:54.201927+00:00"
+  },
+  {
+    "id": "de7177c8-b572-48ac-acca-222fecd08cbf",
+    "category_id": "3b7bbae4-95d7-49b9-91dc-a91606de0765",
+    "name": "Machine screw",
+    "created_at": "2026-01-27T10:30:55.909591+00:00"
+  },
+  {
+    "id": "83d2581b-855b-4de0-a00a-2272dcd7de86",
+    "category_id": "3b7bbae4-95d7-49b9-91dc-a91606de0765",
+    "name": "Wire Nails",
+    "created_at": "2026-01-27T10:31:06.968417+00:00"
+  },
+  {
+    "id": "a07c9c85-8efc-4de8-88e4-e48f7ba038b2",
+    "category_id": "21ac474c-e162-4269-9a67-3384e2bb324b",
+    "name": "Slim Magnet",
+    "created_at": "2026-02-05T09:07:02.635611+00:00"
+  }
+]
